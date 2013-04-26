@@ -1,0 +1,65 @@
+Your payment processed by the Payer Accounts Payable Department is being paid electronically using payment technology from Bank. Funds are transferred directly from a Payer banking institution to your bank account. The actual settlement date may vary by one to two days depending on your financial institution. Bank does not handle the funds.
+
+If you have any questions please contact the Accounts Payable Customer Service Team at email or phone number.
+SUMMARY
+----------
+Payee Name                 :CLIENT INC
+Number of Payments: 1 (0 of which are $0 payments)
+Number of Remittance Lines:3
+Total amount deposited     :USD 67.50
+
+* Disclaimer: Remittance dates are not translated or localized. Please consult with the buyer regarding the date format.
+
+
+DETAILS
+----------
+
+
+Payment number     :550556
+Issue Date       :11/30/2012
+Payer            : Payer
+Settle Date      :12/3/2012
+Payment Amount     :67.50
+Currency :USD
+
+   Memo :
+   550556
+
+
+
+    REMITTANCE FOR CHECK NUMBER  550556
+
+    Invoice number   :54592
+    Invoice Date*    :20120627
+    P O number       :
+    Invoice Total    :13.50
+    Invoice Payment Amount   :13.50
+    Invoice Discount :0.00
+    Adjustment Amount:0.00
+
+          Comments :
+      4550843757
+
+
+    Invoice number   :54692
+    Invoice Date*    :20120627
+    P O number       :
+    Invoice Total    :27.00
+    Invoice Payment Amount   :27.00
+    Invoice Discount :0.00
+    Adjustment Amount:0.00
+
+          Comments :
+      4550843757
+
+
+    Invoice number   :54693
+    Invoice Date*    :20120627
+    P O number       :
+    Invoice Total    :27.00
+    Invoice Payment Amount   :27.00
+    Invoice Discount :0.00
+    Adjustment Amount:0.00
+
+          Comments :
+      4550843757

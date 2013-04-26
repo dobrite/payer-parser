@@ -1,0 +1,4 @@
+0.13    12/13/12    Added more unittests, reformatted code
+0.12    12/11/12    Added more unittests
+0.11    12/10/12    Fixed issue with "Payment Amount" only displaying one decimal point
+0.10    12/10/12    Initial version
